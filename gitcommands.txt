@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m 'Initial'
+git remote(Don't type this )
+git push -u origin master
